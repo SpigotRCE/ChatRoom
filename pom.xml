@@ -22,5 +22,10 @@
             <scope>system</scope>
             <systemPath>${basedir}/lib/ByteFlow-1.0-SNAPSHOT.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>32.1.2-jre</version>
+        </dependency>
     </dependencies>
 </project>
